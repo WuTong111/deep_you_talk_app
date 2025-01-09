@@ -1,0 +1,8 @@
+{
+  "pages": [
+    "pages/chat/chat"
+  ],
+  "window": {
+    "navigationBarTitleText": "AI聊天小程序"
+  }
+}
